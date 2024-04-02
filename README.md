@@ -1,3 +1,13 @@
+# Credit card fraud detection realtime - Front end
+
+This is front-end source code (React) of our Credit card Fraud detection system. This is a high scalability and intelligent system, heavily rely on AWS architecture.
+
+Our architecture
+
+![architecture](https://github.com/yurri775/system_detection_fraud_credit_card/assets/129472198/63143732-c0ee-4ef4-82b7-816e602827a2)
+
+
+
 # Détection de Fraude par Carte de Crédit
 
 La sécurité des fonds des clients est la priorité absolue de toute institution financière. La fraude par carte de crédit engendre non seulement des pertes monétaires, mais également des dommages à la réputation sur le marché et à la confiance des clients.
