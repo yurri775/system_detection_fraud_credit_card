@@ -65,6 +65,36 @@ Les modèles suivants sont utilisés pour la détection de fraude :
 
 Chaque modèle est évalué en fonction de plusieurs métriques, fournissant ainsi une indication de sa performance dans la détection de fraudes.
 
+## Feature
+
+- Use ReactJS/ Redux
+- Real time update map/chart (polling)
+- Map cluster (marker will be join with each other, inspired by [this](https://github.com/istarkov/google-map-clustering-example))
+- Data table with pagination
+- Ready to integrated with backend
+
+## Installation
+
+To start webpack-dev-server:
+```
+> npm install
+> npm start
+```
+
+To start nodejs with dummy data:
+```
+> node server.js
+```
+
+## Demo
+
+Please check our demo at http://creditcard-frauddetection.coddeine.com/
+
+### Screenshot
+
+![fullscreen](https://github.com/yurri775/system_detection_fraud_credit_card/assets/129472198/ce111a57-fa75-43c0-8454-dc118b9ac5ed)
+
+
 ## Date de Livraison
 
 La plateforme sera disponible le 16 mai 2024. Restez à l'écoute pour plus de mises à jour !
