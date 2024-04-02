@@ -1,3 +1,7 @@
+![architecture](https://github.com/yurri775/system_detection_fraud_credit_card/assets/164823378/83c8a000-4a5b-4c5e-9f4a-6d2344d237ab)
+
+
+
 # Détection de Fraude par Carte de Crédit
 
 La sécurité des fonds des clients est la priorité absolue de toute institution financière. La fraude par carte de crédit engendre non seulement des pertes monétaires, mais également des dommages à la réputation sur le marché et à la confiance des clients.
