@@ -32,7 +32,6 @@ Le système de machine learning développé dans le cadre de ce projet vise à d
 
 Ce projet est développé par :
 
-- Ayoub AMRANI
 - AKRAM LOULIDI LAHKIM
 - MOUAD EL KABIR
 
